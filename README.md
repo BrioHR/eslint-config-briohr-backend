@@ -6,7 +6,7 @@ Typescript Eslint config for the backend teams working on BrioHR.
 <hr>
 
 ```
-npm i -D @briohr/eslint-config-briohr-backend
+npm i -D @briohr/eslint-config-briohr-backend eslint
 ```
 
 Add it as a config in ```.eslintrc```
