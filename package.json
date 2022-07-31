@@ -1,0 +1,32 @@
+{
+  "name": "@briohr/eslint-config-briohr-backend",
+  "version": "1.0.0",
+  "description": "Typescript Eslint config for the backend teams working on BrioHR.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrioHR/eslint-config-briohr-backend.git"
+  },
+  "keywords": [
+    "eslint",
+    "tslint",
+    "linter"
+  ],
+  "author": "BrioHR Innovation Inc.",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/BrioHR/eslint-config-briohr-backend/issues"
+  },
+  "homepage": "https://github.com/BrioHR/eslint-config-briohr-backend#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.6.1",
+    "@typescript-eslint/parser": "^4.6.1",
+    "eslint": "^7.12.1",
+    "eslint-config-prettier": "7.2.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-prettier": "^3.1.4"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
